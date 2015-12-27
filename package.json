@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"test": "mocha testChaiSinon"
+		"test": "mocha ./testChaiSinon.js"
 	},
 	"devDependencies": {
 		"chai": "~1.0.3",
