@@ -3,8 +3,10 @@
 		"test": "mocha ./testChaiSinon.js"
 	},
 	"devDependencies": {
-		"chai": "~1.0.3",
-		"mocha": "~1.1.0",
-		"sinon": "~1.10.2"
+		"chai": "~3.4.1",
+		"request": "~2.67.0",
+		"rewire": "~2.51.0",
+		"mocha": "~2.0.1",
+		"sinon": "~1.17.2"
 	}
 }
