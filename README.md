@@ -1,5 +1,6 @@
 node.js
 =======
+[![Build Status](https://travis-ci.org/a-tsu/node.js.svg?branch=master)](https://travis-ci.org/a-tsu/node.js)
 
 my private repository of working node.js
 
