@@ -1,0 +1,25 @@
+{
+  "name": "test.js",
+  "version": "1.0.0",
+  "description": "my test",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "mocha",
+    "install": "node-gyp rebuild",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-tsu/node.js.git"
+  },
+  "author": "atsu_matsu",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/a-tsu/node.js/issues"
+  },
+  "homepage": "https://github.com/a-tsu/node.js"
+}
