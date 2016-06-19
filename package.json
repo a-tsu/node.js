@@ -21,5 +21,15 @@
   "bugs": {
     "url": "https://github.com/a-tsu/node.js/issues"
   },
-  "homepage": "https://github.com/a-tsu/node.js"
+  "homepage": "https://github.com/a-tsu/node.js",
+  "scripts": {
+    "test": "mocha ./testChaiSinon.js"
+  },
+  "devDependencies": {
+    "chai": "~3.4.1",
+    "request": "~2.67.0",
+    "rewire": "~2.5.1",
+    "mocha": "~2.0.1",
+    "sinon": "~1.17.2"
+  }
 }
