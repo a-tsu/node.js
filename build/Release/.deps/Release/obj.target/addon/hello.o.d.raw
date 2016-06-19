@@ -1,9 +1,0 @@
-Release/obj.target/addon/hello.o: ../hello.cc \
-  /Users/atsuo/.node-gyp/0.10.31/src/node.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/uv/include/uv.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/uv/include/uv-private/uv-unix.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/uv/include/uv-private/ngx-queue.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/uv/include/uv-private/uv-darwin.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/v8/include/v8.h \
-  /Users/atsuo/.node-gyp/0.10.31/deps/v8/include/v8stdint.h \
-  /Users/atsuo/.node-gyp/0.10.31/src/node_object_wrap.h
