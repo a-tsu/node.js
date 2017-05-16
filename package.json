@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/a-tsu/node.js",
   "scripts": {
-    "test": "mocha ./testChaiSinon.js"
+    "test": "mocha ./test/testChaiSinon.js"
   },
   "devDependencies": {
     "chai": "~3.4.1",
