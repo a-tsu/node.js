@@ -52,7 +52,7 @@ describe('Test', function () {
 			requestMock = sinon.mock(request);
 
 			// test対象のmoduleをrewireする
-			Test = rewire('./chaiSinon');
+			Test = rewire('../chaiSinon');
 			Test.__set__('request', request);
 		});
 
