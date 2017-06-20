@@ -16,7 +16,6 @@
     "url": "https://github.com/a-tsu/node.js.git"
   },
   "author": "atsu_matsu",
-  "license": "ISC",
   "gypfile": true,
   "bugs": {
     "url": "https://github.com/a-tsu/node.js/issues"
